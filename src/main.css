@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.hero h1{
+    font-size: 54px;
+    line-height: 76px;
+}
